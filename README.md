@@ -50,6 +50,11 @@
 - Hang zhang, Chongruo Wu
 - [pdf](https://arxiv.org/abs/2004.08955)
 
+### Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods
+
+- Yahia Assiri
+- [pdf](https://arxiv.org/abs/2001.08856)
+
 
 
 ## ML
