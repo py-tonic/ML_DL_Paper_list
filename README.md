@@ -73,5 +73,14 @@
 - Marcin Andrychowicz, Misha Denil
 - [pdf](https://arxiv.org/abs/1606.04474)
 
-### 
+
+
+
+
+## Pruning
+
+### The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+
+- Jonathan Frankle, Michael Carbin
+- [pdf](https://arxiv.org/abs/1803.03635)
 
