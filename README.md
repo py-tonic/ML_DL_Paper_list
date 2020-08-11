@@ -40,6 +40,11 @@
 - Xiangyu Zhang, Xinyu Zhou
 - [pdf](https://arxiv.org/abs/1707.01083)
 
+### CapsuleNet
+
+- Sara Sabour, Geoffrey E Hinton
+- [pdf](https://arxiv.org/abs/1710.09829)
+
 ### EfficientNet
 
 - Mingxing Tan, Quoc V. Le
